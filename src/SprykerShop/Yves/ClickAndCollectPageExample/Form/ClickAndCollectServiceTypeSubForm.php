@@ -5,7 +5,7 @@
  * For full license information, please view the LICENSE file that was distributed with this source code.
  */
 
-namespace SprykerShop\Yves\ClickAndCollectPageExample\Form;
+namespace SprykerExample\Yves\ClickAndCollectPageExample\Form;
 
 use Generated\Shared\Transfer\ShipmentTypeTransfer;
 use Spryker\Yves\Kernel\Form\AbstractType;

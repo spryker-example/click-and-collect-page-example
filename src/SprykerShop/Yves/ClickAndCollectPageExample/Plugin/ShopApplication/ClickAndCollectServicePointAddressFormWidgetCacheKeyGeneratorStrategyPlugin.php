@@ -5,10 +5,10 @@
  * For full license information, please view the LICENSE file that was distributed with this source code.
  */
 
-namespace SprykerShop\Yves\ClickAndCollectPageExample\Plugin\ShopApplication;
+namespace SprykerExample\Yves\ClickAndCollectPageExample\Plugin\ShopApplication;
 
 use Spryker\Yves\Kernel\AbstractPlugin;
-use SprykerShop\Yves\ClickAndCollectPageExample\Widget\ClickAndCollectServicePointAddressFormWidget;
+use SprykerExample\Yves\ClickAndCollectPageExample\Widget\ClickAndCollectServicePointAddressFormWidget;
 use SprykerShop\Yves\ShopApplicationExtension\Dependency\Plugin\WidgetCacheKeyGeneratorStrategyPluginInterface;
 
 class ClickAndCollectServicePointAddressFormWidgetCacheKeyGeneratorStrategyPlugin extends AbstractPlugin implements WidgetCacheKeyGeneratorStrategyPluginInterface
