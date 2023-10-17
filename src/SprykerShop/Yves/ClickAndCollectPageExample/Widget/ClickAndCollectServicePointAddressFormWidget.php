@@ -5,19 +5,19 @@
  * For full license information, please view the LICENSE file that was distributed with this source code.
  */
 
-namespace SprykerShop\Yves\ClickAndCollectPageExample\Widget;
+namespace SprykerExample\Yves\ClickAndCollectPageExample\Widget;
 
 use Generated\Shared\Transfer\ItemTransfer;
 use Generated\Shared\Transfer\ServicePointTransfer;
 use Generated\Shared\Transfer\ServiceTypeTransfer;
 use Generated\Shared\Transfer\ShipmentTypeTransfer;
 use Spryker\Yves\Kernel\Widget\AbstractWidget;
-use SprykerShop\Yves\ClickAndCollectPageExample\Form\ClickAndCollectServiceTypeSubForm;
+use SprykerExample\Yves\ClickAndCollectPageExample\Form\ClickAndCollectServiceTypeSubForm;
 use Symfony\Component\Form\FormView;
 
 /**
- * @method \SprykerShop\Yves\ClickAndCollectPageExample\ClickAndCollectPageExampleFactory getFactory()
- * @method \SprykerShop\Yves\ClickAndCollectPageExample\ClickAndCollectPageExampleConfig getConfig()
+ * @method \SprykerExample\Yves\ClickAndCollectPageExample\ClickAndCollectPageExampleFactory getFactory()
+ * @method \SprykerExample\Yves\ClickAndCollectPageExample\ClickAndCollectPageExampleConfig getConfig()
  */
 class ClickAndCollectServicePointAddressFormWidget extends AbstractWidget
 {
