@@ -1,5 +1,5 @@
 {
-    "name": "spryker-shop/click-and-collect-page-example",
+    "name": "spryker-example/click-and-collect-page-example",
     "type": "library",
     "description": "ClickAndCollectPageExample module",
     "license": "MIT",
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SprykerShop\\": "src/SprykerShop/"
+            "SprykerExample\\": "src/SprykerShop/"
         }
     },
     "minimum-stability": "dev",
